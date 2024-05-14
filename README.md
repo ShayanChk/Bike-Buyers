@@ -2,10 +2,6 @@
 
 This repository contains a Power BI project that analyzes data related to bike store customers. The analysis aims to uncover insights into the demographics and behaviors of bike store customers, which can be useful for strategic planning and marketing.
 
-## Overview
-
-The Bike Store Customers Analysis project leverages Power BI to visualize and analyze data regarding bike purchases. It helps businesses understand their customer base better and make informed decisions to improve sales and customer satisfaction.
-
 ## Visuals Overview
 
 ### Demographic Breakdown
