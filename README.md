@@ -4,10 +4,6 @@ This repository contains a Power BI project that analyzes data related to bike s
 
 ## Visuals Overview
 
-### Demographic Breakdown
-The "Demographics" section provides visualizations showing the distribution of bike buyers by age, gender, income, and marital status.
-
-#### Features:
 - **Age Distribution**: Histogram showing the age range of customers.
 - **Gender Ratio**: Pie chart displaying the proportion of male and female customers.
 - **Income Levels**: Bar chart depicting the income distribution.
