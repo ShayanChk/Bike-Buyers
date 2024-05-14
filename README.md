@@ -4,9 +4,9 @@ This repository contains a Power BI project that analyzes data related to bike s
 
 ## Visuals Overview
 
-- **Income by Gender**: Is a Stacked Column Chart that shows the customers income based on gender.
-- **Income by Occupation**: Is a Stacked Bar Chart that shows the cusomters income based on occupation.
-- **Income by Marital Status**: Pie chart that indicates the customers income according to thier marital status.
-- **Marital Status**: Donut chart illustrating the marital status of customers.
-- **Income by Education**: Is a Column Chart that shows the customers income based on thier Education.
+- **Income by Gender**: a Stacked Column Chart that shows the customers income based on gender.
+- **Income by Occupation**: a Stacked Bar Chart that shows the cusomters income based on occupation.
+- **Income by Marital Status**: a Pie chart that indicates the customers income according to thier marital status.
+- **Marital Status**: a Donut chart illustrating the marital status of customers.
+- **Income by Education**: a Column Chart that shows the customers income based on thier Education.
 
